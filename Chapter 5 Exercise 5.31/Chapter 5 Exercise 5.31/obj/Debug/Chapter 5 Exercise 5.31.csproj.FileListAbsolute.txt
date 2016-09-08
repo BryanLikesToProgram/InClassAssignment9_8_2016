@@ -1,0 +1,15 @@
+C:\Users\nicomp\Google Drive\IT 3045C-003 Contemporary Programming Fall 2015\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\bin\Debug\Chapter 5 Exercise 5.31.exe.config
+C:\Users\nicomp\Google Drive\IT 3045C-003 Contemporary Programming Fall 2015\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\bin\Debug\Chapter 5 Exercise 5.31.exe
+C:\Users\nicomp\Google Drive\IT 3045C-003 Contemporary Programming Fall 2015\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\bin\Debug\Chapter 5 Exercise 5.31.pdb
+C:\Users\nicomp\Google Drive\IT 3045C-003 Contemporary Programming Fall 2015\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\obj\Debug\Chapter 5 Exercise 5.31.csprojResolveAssemblyReference.cache
+C:\Users\nicomp\Google Drive\IT 3045C-003 Contemporary Programming Fall 2015\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\obj\Debug\Chapter 5 Exercise 5.31.exe
+C:\Users\nicomp\Google Drive\IT 3045C-003 Contemporary Programming Fall 2015\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\obj\Debug\Chapter 5 Exercise 5.31.pdb
+G:\Contemporary Projects\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\bin\Debug\Chapter 5 Exercise 5.31.exe.config
+G:\Contemporary Projects\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\obj\Debug\Chapter 5 Exercise 5.31.exe
+G:\Contemporary Projects\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\obj\Debug\Chapter 5 Exercise 5.31.pdb
+E:\Contemporary Projects\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\bin\Debug\Chapter 5 Exercise 5.31.exe.config
+E:\Contemporary Projects\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\obj\Debug\Chapter 5 Exercise 5.31.exe
+E:\Contemporary Projects\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\obj\Debug\Chapter 5 Exercise 5.31.pdb
+E:\Contemporary Projects\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\bin\Debug\Chapter 5 Exercise 5.31.exe
+E:\Contemporary Projects\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\bin\Debug\Chapter 5 Exercise 5.31.pdb
+E:\Contemporary Projects\Week03\Chapter 5 Exercise 5.31\Chapter 5 Exercise 5.31\obj\Debug\Chapter 5 Exercise 5.31.csprojResolveAssemblyReference.cache
